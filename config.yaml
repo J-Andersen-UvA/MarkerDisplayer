@@ -1,0 +1,9 @@
+csv_file_path: "markerdata/3_curved_MarkerData.csv"
+marker_name: "ARIEL"
+
+frame_to_plot: 1
+output_2d_plot: "2d_markers.png"
+output_3d_plot: "3d_markers.png"
+skip_rows: 1
+annotate_markers: false
+
