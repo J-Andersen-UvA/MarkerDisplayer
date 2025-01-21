@@ -1,5 +1,6 @@
-csv_file_path: "markerdata/3_curved_MarkerData.csv"
+csv_file_path: "markerdata/VIEREN_241213_0_MarkerData.csv"
 marker_name: "ARIEL"
+use_babylon: true
 
 frame_to_plot: 1
 output_2d_plot: "2d_markers.png"
